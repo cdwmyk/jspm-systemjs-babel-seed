@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chris Wheatley <chriswheatley87@gmail.com>",
+  "author": "Chris Wheatley <>",
   "license": "MIT",
   "jspm": {
     "directories": {},
